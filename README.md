@@ -1,10 +1,21 @@
 # 剑指Java面试-Offer直通车
+
+原仓库不更新了，Fork一份，顺便整理扩展一下。
+
+以下是原仓库的一些介绍，结构可以拿来复用。
+
+花了点大洋买了《剑指Java面试-Offer直通车》，现在版权越来越严了，到处搜不到，有需要的私我，仅供学习交流。
+
+---
+
+<!--
+这些图片是怎么做的？
 [![license](https://img.shields.io/badge/license-Apache%20License%202.0-brightgreen.svg)](https://github.com/szpinc/java-offer-get/blob/master/LICENSE)
 [![original](https://img.shields.io/badge/original-GhostDog-orange.svg)](https://github.com/szpinc/java-offer-get)
 [![stars](https://img.shields.io/github/stars/szpinc/java-offer-get.svg)](https://github.com/szpinc/java-offer-get/stargazers)
 [![forks](https://img.shields.io/github/forks/szpinc/java-offer-get.svg)](https://github.com/szpinc/java-offer-get/network/members)
 [![issues](https://img.shields.io/github/issues/szpinc/java-offer-get.svg)](https://github.com/szpinc/java-offer-get/issues)
-
+-->
 
 # 项目说明
 该文档是本人用来记录慕课网《剑指Java面试-Offer直通车》这门课程的学习过程。在这个互联网寒冬的时候，企业对应聘者的要求越来越高，作者几次面试连连碰壁，说到底还是知识储备不够。于是作者一咬牙花了299块大洋买了这个课程，在这记录下学习的内容，希望能有所帮助。
